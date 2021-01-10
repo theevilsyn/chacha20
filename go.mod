@@ -1,4 +1,4 @@
-module github.com/yawning/chacha20
+module github.com/theevilsyn/chacha20
 
 go 1.12
 
